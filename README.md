@@ -3,7 +3,7 @@
 Example project to demostrate import resolution bug in `dd-trace/esbuild` when
 integrating into a Typescript project
 
-_link to the issue_
+https://github.com/DataDog/dd-trace-js/issues/3547
 
 ```sh
 npm i
