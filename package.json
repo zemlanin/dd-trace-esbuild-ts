@@ -1,0 +1,17 @@
+{
+  "name": "dd-trace-esbuild-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "node ./build.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anton Verinov",
+  "license": "ISC",
+  "dependencies": {
+    "dd-trace": "^4.12.0",
+    "esbuild": "^0.19.2"
+  }
+}
